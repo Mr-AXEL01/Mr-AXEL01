@@ -23,6 +23,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Spring_Framework_Logo_2018.svg" alt="spring" width="40" height="40"/>
+  </a>
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
     <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/>
   </a>
@@ -100,4 +106,9 @@
   <a href="https://www.keycloak.org/" target="_blank" rel="noreferrer">
     <img src="https://www.xpand-it.com/wp-content/uploads/2020/06/Keycloak-logo.png" alt="keycloak" width="80" height="50"/>
   </a>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AXEL01&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-AXEL01&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px"/>
 </p>
