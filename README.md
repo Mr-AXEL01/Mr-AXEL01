@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-svg-vector.svg" alt="Spring" width="80" height="50"/>
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-svg-vector.svg" alt="Spring" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
     <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/>
