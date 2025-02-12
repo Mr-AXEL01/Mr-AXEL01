@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ABD_ELHAQ AZROUR</h1>
+<h1 align="center">Hi 👋, I'm ABD-ELHAQ AZROUR</h1>
 <h3 align="center">A Software Developer | Tech Enthusiast | Constantly Exploring and Creating Innovative Solutions</h3>
 
 
@@ -28,6 +28,9 @@
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-svg-vector.svg" alt="Spring" width="40" height="40"/>
+  </a>
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
     <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/>
